@@ -3,9 +3,21 @@ HEADER
 ********/
 header {
     text-align: center;
+    font-family: Arial;
+    color: beige;
 }
 
+nav a {
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: 600;
+    font-size: 1.05em;
+    color: black;
+}
 
+.nav {
+    padding-right: 10px;
+}
 
 
 
