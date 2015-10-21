@@ -5,6 +5,10 @@ header {
     font-family: Arial;
 }
 
+header p {
+    font-weight: 600;
+}
+
 nav a {
     text-decoration: none;
     font-family: Arial;
