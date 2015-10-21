@@ -2,9 +2,8 @@
 HEADER
 ********/
 header {
-    text-align: center;
     font-family: Arial;
-    color: beige;
+    
 }
 
 nav a {
@@ -15,17 +14,27 @@ nav a {
     color: black;
 }
 
+nav a:hover {
+    color: brown;
+}
+
 .nav {
     padding-right: 10px;
 }
 
-
+body {
+    background-color: beige;
+    text-align: center;
+}
 
 /********
 FOOTER
 ********/
 
-
+footer {
+    font-family: Arial;
+    font-size: .75em;
+}
 
 
 
