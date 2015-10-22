@@ -7,6 +7,7 @@ header {
 
 header p {
     font-weight: 600;
+    color: brown;
 }
 
 nav a {
@@ -29,6 +30,12 @@ body {
     background-color: beige;
     text-align: center;
 }
+
+/********
+SECTION
+********/
+
+
 
 /********
 FOOTER
