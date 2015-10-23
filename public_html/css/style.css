@@ -35,6 +35,17 @@ body {
 SECTION
 ********/
 
+section h1 {
+    font-family: Arial;
+    color: green;
+    font-size: 1.75em;
+}
+
+section h2 {
+    font-family: Arial;
+    font-size: 1.25em;
+}
+
 section p {
     font-family: Arial;
 }
