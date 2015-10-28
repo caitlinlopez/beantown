@@ -3,6 +3,7 @@ HEADER
 ********/
 header {
     font-family: Arial;
+    background-color: #BF8F5E;
 }
 
 header p {
@@ -46,7 +47,7 @@ section h2 {
     font-size: 1.25em;
 }
 
-section p {
+section {
     font-family: Arial;
 }
 
